@@ -1,0 +1,21 @@
+Define DayEvent class:
+
+Properties: day, event description, visual representation.
+Define ListADT interface:
+
+Methods: add, remove, get, size, isEmpty.
+Define CreationDay class implementing ListADT:
+
+Use a list to store DayEvent objects.
+Populate CreationDay list with creation events:
+
+Day 1: Light (🌅).
+Day 2: Sky and water separation (🌌).
+Day 3: Land, sea, and vegetation (🌍 🌳).
+Day 4: Sun, moon, and stars (🌞 🌜 ⭐).
+Day 5: Birds and sea creatures (🐦 🐠).
+Day 6: Land animals and humans (🦁 👫).
+Day 7: Rest (😴).
+Display the events:
+
+Iterate through the list and print each event with its visual representation.

@@ -1,0 +1,5 @@
+1.Define an abstract data type for DayEvent to represent each event in the creation account.
+2.Implement a ListADT interface to manage the list of events.
+3.Create a class CreationDay to implement the ListADT and store the events in order.
+4.Use emojis to visually represent each creation theme.
+5.Create a Main class to populate the CreationDay list with events and display them.
